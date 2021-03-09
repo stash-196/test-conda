@@ -1,0 +1,4 @@
+name: test-conda
+channels:
+  - defaults
+prefix: /home/lab/stash/.pyenv/versions/anaconda3-2020.07/envs/test-conda
